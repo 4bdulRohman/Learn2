@@ -1,0 +1,8 @@
+public class AbdulLearn{
+	public static void main(String[] args){
+		
+
+		System.out.print("Hallo Nabila");
+		//stem.out.print("Ini punyaku");
+	}
+}
